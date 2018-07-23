@@ -9,3 +9,5 @@ Amazon AWS
 Perl
 Shell
 Databases
+Spring
+jersey framework.
